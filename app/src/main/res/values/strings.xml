@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleLogin</string>
+    <string name="web_client_id">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</string>
+    <string name="title_activity_logged_in">Authenticated</string>
+</resources>
